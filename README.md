@@ -21,7 +21,7 @@
 
 ### Sobre
 
-Sou desenvolvedor Full Stack e trabalho na maior parte do tempo com Python no backend, mas também faço a parte web (HTML, CSS e JavaScript) quando o projeto pede uma interface.
+Sou desenvolvedor Full Stack e trabalho na maior parte do tempo com Python e Node.js no backend, mas também faço a parte web (HTML, CSS e JavaScript) quando o projeto pede uma interface.
 
 O que mais me interessa hoje é conectar sistemas que normalmente não falam entre si: APIs externas, bancos de dados, ferramentas de IA, automações de navegador. Gosto de construir coisas que rodam sozinhas e entregam valor sem precisar de babá.
 
