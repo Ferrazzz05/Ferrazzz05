@@ -63,7 +63,7 @@ Aprendo melhor mexendo. Leio o suficiente pra entender o problema, e depois reso
 
 ### Projetos em destaque
 
-#### 🛡️ [Antifraude-AI-Bot](https://github.com/Ferrazzz05/Antifraude-AI-Bot)
+####  [Antifraude-AI-Bot](https://github.com/Ferrazzz05/Antifraude-AI-Bot)
 
 Motor de detecção de fraudes para Shopify. Cruza pedidos com a Receita Federal (ACP/SCPC), valida CEP, CPF, telefone, e-mail e IP, e usa o Gemini 2.5 Flash com visão computacional pra analisar o endereço de entrega via Street View. Tem versão em Python e versão em n8n.
 
@@ -73,7 +73,7 @@ Motor de detecção de fraudes para Shopify. Cruza pedidos com a Receita Federal
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-#### 📊 [Monitoramento-Reclamacoes](https://github.com/Ferrazzz05/Monitoramento-Reclamacoes)
+####  [Monitoramento-Reclamacoes](https://github.com/Ferrazzz05/Monitoramento-Reclamacoes)
 
 Bot em Playwright que monitora reclamações sem resposta no Reclame Aqui, deduplicando via SQLite e alertando por e-mail. Substituiu uma automação N8N+LLM que sofria com falsos positivos e alertas duplicados.
 
@@ -82,7 +82,7 @@ Bot em Playwright que monitora reclamações sem resposta no Reclame Aqui, dedup
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail%20SMTP-EA4335?style=flat&logo=gmail&logoColor=white)
 
-#### 🔍 [Audit-Site-Bot](https://github.com/Ferrazzz05/Audit-Site-Bot)
+####  [Audit-Site-Bot](https://github.com/Ferrazzz05/Audit-Site-Bot)
 
 Auditoria automatizada de páginas críticas de e-commerce. Contorna Cloudflare Turnstile com undetected-chromedriver, simula o fluxo completo BYOB (12 livros + checkout) e valida que os handlers React responderam.
 
@@ -108,7 +108,7 @@ Same as above ⬆️
 
 ### Featured projects
 
-#### 🛡️ [Antifraude-AI-Bot](https://github.com/Ferrazzz05/Antifraude-AI-Bot)
+####  [Antifraude-AI-Bot](https://github.com/Ferrazzz05/Antifraude-AI-Bot)
 
 Fraud detection engine for Shopify. Cross-references orders with the Brazilian Federal Revenue (ACP/SCPC), validates ZIP, tax ID, phone, email and IP, and uses Gemini 2.5 Flash with computer vision to analyze the shipping address via Street View. Available in Python and n8n flavors.
 
@@ -118,7 +118,7 @@ Fraud detection engine for Shopify. Cross-references orders with the Brazilian F
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-#### 📊 [Monitoramento-Reclamacoes](https://github.com/Ferrazzz05/Monitoramento-Reclamacoes)
+####  [Monitoramento-Reclamacoes](https://github.com/Ferrazzz05/Monitoramento-Reclamacoes)
 
 Playwright bot that monitors unanswered complaints on Reclame Aqui (Brazilian consumer complaints site), with SQLite-based deduplication and email alerts. Replaced an N8N+LLM workflow that suffered from false positives and duplicate alerts.
 
@@ -127,7 +127,7 @@ Playwright bot that monitors unanswered complaints on Reclame Aqui (Brazilian co
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail%20SMTP-EA4335?style=flat&logo=gmail&logoColor=white)
 
-#### 🔍 [Audit-Site-Bot](https://github.com/Ferrazzz05/Audit-Site-Bot)
+####  [Audit-Site-Bot](https://github.com/Ferrazzz05/Audit-Site-Bot)
 
 Automated audit of critical e-commerce pages. Bypasses Cloudflare Turnstile with undetected-chromedriver, simulates the full BYOB flow (12 books + checkout) and verifies that React handlers actually responded.
 
