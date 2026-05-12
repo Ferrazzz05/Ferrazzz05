@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer</b><br/>
-  <sub>Backend · Frontend · Automação · Integrações · IA · APIs</sub>
+  <sub>Backend · Frontend · Automação · Integrações · IA · APIs · Banco de Dados</sub>
 </p>
 
 <p align="center">
