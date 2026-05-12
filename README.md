@@ -1,8 +1,8 @@
 <h1 align="center">Daniel Ferraz Wilczecke</h1>
 
 <p align="center">
-  <b>Full Stack / Backend Developer</b><br/>
-  <sub>Python · Automação · Integrações · IA</sub>
+  <b>Full Stack Developer</b><br/>
+  <sub>Backend Python · Frontend Web · Automação · Integrações · IA</sub>
 </p>
 
 <p align="center">
@@ -21,20 +21,42 @@
 
 ### Sobre
 
-Desenvolvedor focado em **automações, integrações e backends Python** que resolvem dores reais de e-commerce. Cada projeto aqui no perfil nasceu de um problema concreto: pedidos suspeitos passando despercebidos, páginas críticas quebrando em silêncio, alertas de Reclame Aqui duplicados — e a solução envolveu cruzar várias APIs, IA generativa e estado persistente.
+Desenvolvedor Full Stack com forte foco em **backend Python, automações, integrações e IA aplicada** ao e-commerce. Cada projeto aqui no perfil nasceu de um problema concreto: pedidos suspeitos passando despercebidos, páginas críticas quebrando em silêncio, alertas de Reclame Aqui duplicados — e a solução envolveu cruzar várias APIs, modelos generativos e estado persistente.
+
+Também trabalho com **frontend web (HTML, CSS, JavaScript)** para entregar projetos completos quando o problema exige interface, e não só backend.
 
 ### Stack
 
+**Backend & linguagens**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Automação & scraping**
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+**Dados & infra**
+
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Integrações & IA**
+
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Projetos em destaque
 
@@ -80,7 +102,9 @@ Desenvolvedor focado em **automações, integrações e backends Python** que re
 
 ### About
 
-Developer focused on **Python automation, integrations and backends** that solve real e-commerce problems. Every project here was born from a concrete pain point: suspicious orders slipping through, critical pages breaking silently, duplicated Reclame Aqui alerts — and the solution involved chaining several APIs, generative AI and persistent state.
+Full Stack developer with a strong focus on **Python backend, automation, integrations and applied AI** in e-commerce. Every project here was born from a concrete pain point: suspicious orders slipping through, critical pages breaking silently, duplicated Reclame Aqui alerts — and the solution involved chaining several APIs, generative models and persistent state.
+
+I also work with **web frontend (HTML, CSS, JavaScript)** to deliver complete projects when the problem requires an interface, not just a backend.
 
 ### Stack
 
